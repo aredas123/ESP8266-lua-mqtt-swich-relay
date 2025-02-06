@@ -1,1 +1,0 @@
-m:publish("redas1", "labuk0", 0,0)
