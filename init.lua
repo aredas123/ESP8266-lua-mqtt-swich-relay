@@ -28,5 +28,3 @@ gpio.write(apacia, 0)
 dofile('wifi2.lua')
 dofile('ide.lc')
 dofile('mygtukai.lua')
---dofile('lubosFunkcija.lua')
---dofile('mqtt.lua')  --prisijungineti po ip gavimo arba taimeriu 
